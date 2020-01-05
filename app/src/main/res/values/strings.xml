@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Value_Monitor</string>
+    <string name="campo_vazio">Campo está vazio</string>
+    <string name="deletar_valor">Deletar Valor</string>
+    <string name="remover_valor">Deseja Remover o Valor ?</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+    <string name="lista_meses">Lista de Meses</string>
+    <string name="valores_lancados">Lista de Valores Lançados</string>
+</resources>

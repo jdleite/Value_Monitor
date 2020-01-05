@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#BA9C69F0</color>
+    <color name="colorPrimaryDark">#BA5F3BA5</color>
+    <color name="colorAccent">#662775</color>
+    <color name="cardBackground">#BA9C69F0</color>
+    <color name="textMonth">#FF3434</color>
+    <color name="fragmentBackground">#FF9800</color>
+    <color name="valueBackground">#BFA0EE</color>
+    <color name="valueColor">#68646D</color>
+
+</resources>

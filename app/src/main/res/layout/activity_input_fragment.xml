@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:background="@color/fragmentBackground"
+        android:layout_height="130dp">
+
+        <EditText
+            android:id="@+id/id_edt_input_value"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Insira o Valor"
+            android:inputType="number"
+            android:textSize="30sp"
+            android:gravity="center"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/id_txt_ok"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:text="Salvar"
+            android:layout_marginLeft="15dp"
+            android:textColor="@color/textMonth"
+            android:clickable="true"
+            android:textSize="30sp" />
+
+        <TextView
+            android:id="@+id/id_txt_cancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:textColor="@color/textMonth"
+            android:text="Cancel"
+            android:layout_marginRight="15dp"
+            android:textSize="30sp" />
+    </RelativeLayout>
+
+</LinearLayout>
